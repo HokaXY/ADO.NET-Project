@@ -1,0 +1,7 @@
+C:\Users\sabab\source\repos\GymApp\GymApp\bin\Debug\GymApp.exe.config
+C:\Users\sabab\source\repos\GymApp\GymApp\bin\Debug\GymApp.exe
+C:\Users\sabab\source\repos\GymApp\GymApp\bin\Debug\GymApp.pdb
+C:\Users\sabab\source\repos\GymApp\GymApp\obj\Debug\GymApp.csproj.AssemblyReference.cache
+C:\Users\sabab\source\repos\GymApp\GymApp\obj\Debug\GymApp.csproj.CoreCompileInputs.cache
+C:\Users\sabab\source\repos\GymApp\GymApp\obj\Debug\GymApp.exe
+C:\Users\sabab\source\repos\GymApp\GymApp\obj\Debug\GymApp.pdb
