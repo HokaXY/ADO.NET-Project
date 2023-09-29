@@ -29,7 +29,7 @@ namespace GymApp
         {
             string conString = @"Data Source =SABA\SQLEXPRESS; Initial Catalog=GymDB; Integrated Security=True";
 
-            using (SqlConnection connection = new SqlConnection(@"SABA\SQLEXPRESS"))
+            using (SqlConnection connection = new SqlConnection(conString))
             {
                 try
                 {
