@@ -1,0 +1,10 @@
+C:\Users\sabab\source\repos\GymApp\GymAppFull\bin\Debug\GymAppFull.exe.config
+C:\Users\sabab\source\repos\GymApp\GymAppFull\bin\Debug\GymAppFull.exe
+C:\Users\sabab\source\repos\GymApp\GymAppFull\bin\Debug\GymAppFull.pdb
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.csproj.AssemblyReference.cache
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.Form1.resources
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.Properties.Resources.resources
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.csproj.GenerateResource.cache
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.csproj.CoreCompileInputs.cache
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.exe
+C:\Users\sabab\source\repos\GymApp\GymAppFull\obj\Debug\GymAppFull.pdb
